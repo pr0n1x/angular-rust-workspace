@@ -1,6 +1,8 @@
 [submodule "ux-charts"]
 	path = ux-charts
-	url = git@github.com:angular-rust/ux-charts.git
+	#url = git@github.com:angular-rust/ux-charts.git
+	url = git@github.com:pr0n1x/ux-charts.git
+	branch = feature/wasm-canvas
 [submodule "ux-charts-wasm-template"]
 	path = ux-charts-wasm-template
 	url = git@github.com:pr0n1x/ux-charts-wasm-template.git
