@@ -2,7 +2,7 @@
 
 members = [
   "ux-charts",
-  "ux-charts-wasm-template"
+  #"ux-charts-wasm-template",
 ]
 
 [profile.release]
