@@ -1,0 +1,1 @@
+# angular-rust-wasm-template
